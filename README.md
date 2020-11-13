@@ -3,3 +3,4 @@
 ## Tipos de archivos
 
 - html
+- css
